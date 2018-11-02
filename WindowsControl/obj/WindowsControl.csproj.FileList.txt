@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsControl.AboutForm.resources
+obj\Debug\WindowsControl.MyForm1.resources
+obj\Debug\WindowsControl.Properties.Resources.resources
+obj\Debug\WindowsControl.TextForm.resources
+obj\Debug\WindowsControl.csproj.GenerateResource.Cache
+bin\Debug\WindowsControl.exe
+bin\Debug\WindowsControl.pdb
+obj\Debug\WindowsControl.exe
+obj\Debug\WindowsControl.pdb
